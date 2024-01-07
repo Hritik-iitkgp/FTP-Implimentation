@@ -1,0 +1,108 @@
+Client Ip Address: 127.0.0.1
+Client Port No: 43663
+Round Trip Time in ms = 0.194000 ms
+
+Client Ip Address: 127.0.0.1
+Client Port No: 45711
+Round Trip Time in ms = 0.210000 ms
+
+Client Ip Address: 127.0.0.1
+Client Port No: 16074
+Round Trip Time in ms = 0.210000 ms
+
+Client Ip Address: 127.0.0.1
+Client Port No: 19658
+Round Trip Time in ms = 0.196000 ms
+
+Client Ip Address: 0.0.0.0
+Client Port No: 0
+Round Trip Time in ms = 0.115000 ms
+
+Client Ip Address: 0.0.0.0
+Client Port No: 0
+Round Trip Time in ms = 0.149000 ms
+
+Client Ip Address: 0.0.0.0
+Client Port No: 0
+Round Trip Time in ms = 0.181000 ms
+
+Client Ip Address: 0.0.0.0
+Client Port No: 0
+Round Trip Time in ms = 0.150000 ms
+
+Client Ip Address: 0.0.0.0
+Client Port No: 0
+Round Trip Time in ms = 0.150000 ms
+
+Client Ip Address: 0.0.0.0
+Client Port No: 0
+Round Trip Time in ms = 0.169000 ms
+
+Client Ip Address: 0.0.0.0
+Client Port No: 0
+Round Trip Time in ms = 0.144000 ms
+
+Client Ip Address: 0.0.0.0
+Client Port No: 0
+Round Trip Time in ms = 0.145000 ms
+
+Client Ip Address: 0.0.0.0
+Client Port No: 0
+Round Trip Time in ms = 0.150000 ms
+
+Client Ip Address: 0.0.0.0
+Client Port No: 0
+Round Trip Time in ms = 0.159000 ms
+
+Client Ip Address: 0.0.0.0
+Client Port No: 0
+Round Trip Time in ms = 0.176000 ms
+
+Client Ip Address: 0.0.0.0
+Client Port No: 0
+Round Trip Time in ms = 0.083000 ms
+
+Client Ip Address: 0.0.0.0
+Client Port No: 0
+Round Trip Time in ms = 0.180000 ms
+
+Client Ip Address: 0.0.0.0
+Client Port No: 0
+Round Trip Time in ms = 0.137000 ms
+
+Client Ip Address: 0.0.0.0
+Client Port No: 0
+Round Trip Time in ms = 0.036000 ms
+
+Client Ip Address: 0.0.0.0
+Client Port No: 0
+Round Trip Time in ms = 0.105000 ms
+
+Client Ip Address: 0.0.0.0
+Client Port No: 0
+Round Trip Time in ms = 0.096000 ms
+
+Client Ip Address: 0.0.0.0
+Client Port No: 0
+Round Trip Time in ms = 0.133000 ms
+
+Client Ip Address: 127.0.0.1
+Client Port No: 62620
+Round Trip Time in ms = 0.099000 ms
+
+Client Ip Address: 127.0.0.1
+Client Port No: 1181
+Round Trip Time in ms = 0.164000 ms
+
+Client Ip Address: 127.0.0.1
+Client Port No: 40076
+Round Trip Time in ms = 0.181000 ms
+
+Client Ip Address: 127.0.0.1
+Client Port No: 44172
+Round Trip Time in ms = 0.055000 ms
+
+Client Ip Address: 127.0.0.1
+Client Port No: 45708
+Round Trip Time in ms = 0.094000 ms
+
